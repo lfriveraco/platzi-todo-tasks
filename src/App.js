@@ -7,7 +7,7 @@ import { TodoSearch } from './TodoSearch';
 // import './App.css';
 
 const todos = [
-  { text: 'Cortar cebolla', completed: false },
+  { text: 'Cortar cebolla', completed: true },
   { text: 'Tomar el curso de Intro a react', completed: false },
   { text: 'Llorar con la Llorona', completed: false },
 ]
